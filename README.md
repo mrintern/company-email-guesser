@@ -22,5 +22,8 @@ a text file named `output.txt` that looks like this:
 ## requirements
  * python 3 (2 might work though, idk)
  * pandas (run `pip install pandas`)
- 
- 
+
+## usage
+* clone the repo `git clone https://github.com/nick781/company-email-guesser.git`
+* from inside the folder, run the script `python company_email_guesser.py`
+* if successful, you should see `output.txt` in the folder now
