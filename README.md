@@ -4,7 +4,7 @@ Guesses someones company email address using public linkedin info. This is a too
 This is based on the idea that companies use the same naming conventions when giving employees emails. 
 * Ex: John Smith of Evil Corp would be: jsmith@evilcorp.com, johnsmith@evilcorp.com, j.smith@evilcorp.com or john.smith@evilcorp.com
 
-Please use this responsibly, or whatever.
+Please use this responsibly.
 
 
 
